@@ -1,0 +1,6 @@
+
+Wood Guy: I sure could use 5 peices of firewood to build my camp!
+CALL checkWood getWood
+
+-Found
+Wood Guy: Oh! Thank you for finding some firewood for me!

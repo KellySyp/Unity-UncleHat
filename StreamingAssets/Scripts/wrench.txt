@@ -1,0 +1,7 @@
+
+Wrench Guy: Oh no! I lost my wrench!
+Wrench Guy: It would be great if someone would find it for me.
+CALL checkWrench getWrench
+
+-Found
+Wrench Guy: That's it! That's my wrench! Thank you so much!

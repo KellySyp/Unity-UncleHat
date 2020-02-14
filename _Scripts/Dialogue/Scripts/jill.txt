@@ -1,0 +1,17 @@
+-Start
+Jill: Hey sis! Do you think the Jersey Devil is around here? 
+#{Yeah!} GOTO Yes
+#{No Way!} GOTO No
+
+#-Yes
+#Kelly: Yeah! People have seen it!
+#Jill: I hope I see it, that would be so cool!
+
+#-No
+Kelly: No way! That's just a ghost story you made up to try to scare me!
+Jill: Haha! You WERE scared!
+
+
+-Devil
+Kelly: I saw it! I saw the Jersey Devil!
+Jill: I think you're telling stories, the Jersey Devil isn't real!

@@ -1,0 +1,27 @@
+Uncle Hat: What's Up?
+{I forgot how to ride} GOTO Ride
+{Not much. What's Up with you?} GOTO Up
+
+-Ride
+Kelly: Umm.... How do you ride again?
+Uncle Hat: You forgot how to ride? What a knucklehead!
+Uncle Hat: Just stand next to the quad and press the space bar. 
+Uncle Hat: Then you can move around with the arrow keys or AWSD.
+Kelly: Awesome! This is going to be just like that Scene in Final Fantasy VII--
+Uncle Hat: Kelly, This isn't a video game.
+Kelly: ...
+Uncle Hat: Don't forget, you can't pick stuff up on the Quad so you have to press the space bar again to hop off.
+Kelly: Got it! 
+
+GOTO END
+
+-Up
+Uncle Hat: Well ya better hurry up and ride before sundown!
+
+GOTO END
+
+-END
+Uncle Hat: We're packing up at 4:00 so we can hit the road before sun down.
+Uncle Hat: Have fun!
+
+
